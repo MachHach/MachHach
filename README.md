@@ -6,6 +6,7 @@
 
 - 🔭 I’m currently working on: DevOps :loop:
 - 🌱 I’m currently learning: microservice architecture :computer:
+- 💪🏼 Strengths: backend development, tooling development
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I like all things Japanese :jp:
 
